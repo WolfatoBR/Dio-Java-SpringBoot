@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Conta-Banco/Conta-Banco.iml" filepath="$PROJECT_DIR$/Conta-Banco/Conta-Banco.iml" />
       <module fileurl="file://$PROJECT_DIR$/Controle-Fluxo/Controle-Fluxo.iml" filepath="$PROJECT_DIR$/Controle-Fluxo/Controle-Fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Dio-Java-SpringBoot.iml" filepath="$PROJECT_DIR$/.idea/Dio-Java-SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OritentacaoObjetos/OritentacaoObjetos.iml" filepath="$PROJECT_DIR$/OritentacaoObjetos/OritentacaoObjetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sistema-smart-TV/Sistema-smart-TV.iml" filepath="$PROJECT_DIR$/Sistema-smart-TV/Sistema-smart-TV.iml" />
     </modules>
   </component>
